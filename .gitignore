@@ -1,2 +1,3 @@
 venv
 rust_agent_runtime/target
+.env
